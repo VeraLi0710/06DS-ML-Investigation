@@ -1,1 +1,1 @@
-# 06DS-ML-coursework
+# 06DS-ML
