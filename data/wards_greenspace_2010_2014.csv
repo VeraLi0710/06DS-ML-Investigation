@@ -1,0 +1,631 @@
+﻿,,,,% area that is greenspace,,Average PTAL score,,,
+Codes,New Code,Borough,Names,2012,2014,2010,2011,2012,2014
+00AA,E09000001,City of London,City of London,18.6,18.6,7.7,7.7,7.6,7.9
+00ABFX,E05000026,Barking and Dagenham,Abbey,19.6,21.9,6.0,5.9,5.7,6.0
+00ABFY,E05000027,Barking and Dagenham,Alibon,22.4,20.6,3.3,3.3,3.2,3.1
+00ABFZ,E05000028,Barking and Dagenham,Becontree,3.0,1.9,2.8,2.9,2.9,2.9
+00ABGA,E05000029,Barking and Dagenham,Chadwell Heath,56.4,56.0,2.3,2.3,2.2,2.3
+00ABGB,E05000030,Barking and Dagenham,Eastbrook,51.1,50.4,2.3,2.3,2.4,2.3
+00ABGC,E05000031,Barking and Dagenham,Eastbury,18.1,17.1,2.9,2.8,2.8,2.7
+00ABGD,E05000032,Barking and Dagenham,Gascoigne,20.3,20.8,4.0,3.8,3.6,3.2
+00ABGE,E05000033,Barking and Dagenham,Goresbrook,17.1,14.1,2.6,2.5,2.5,2.5
+00ABGF,E05000034,Barking and Dagenham,Heath,38.4,36.3,2.6,2.6,2.6,2.7
+00ABGG,E05000035,Barking and Dagenham,Longbridge,30.3,28.3,3.1,3.1,3.1,3.1
+00ABGH,E05000036,Barking and Dagenham,Mayesbrook,45.8,44.8,2.6,2.6,2.5,2.5
+00ABGJ,E05000037,Barking and Dagenham,Parsloes,17.5,17.4,2.7,2.7,2.7,2.7
+00ABGK,E05000038,Barking and Dagenham,River,20.8,20.5,3.0,3.0,3.1,3.0
+00ABGL,E05000039,Barking and Dagenham,Thames,44.4,43.8,2.4,2.2,2.1,2.1
+00ABGM,E05000040,Barking and Dagenham,Valence,16.0,11.8,3.2,3.2,3.2,3.2
+00ABGN,E05000041,Barking and Dagenham,Village,48.0,47.0,2.8,2.8,2.7,2.7
+00ABGP,E05000042,Barking and Dagenham,Whalebone,16.4,16.0,2.9,2.9,2.9,2.9
+00ACFX,E05000043,Barnet,Brunswick Park,28.0,28.0,2.8,2.8,2.8,2.9
+00ACFY,E05000044,Barnet,Burnt Oak,20.2,18.9,3.6,3.6,3.6,3.6
+00ACFZ,E05000045,Barnet,Childs Hill,15.1,15.1,4.5,4.5,4.6,4.5
+00ACGA,E05000046,Barnet,Colindale,20.8,19.8,2.5,2.5,2.5,2.5
+00ACGB,E05000047,Barnet,Coppetts,40.3,40.3,2.8,2.9,2.9,2.9
+00ACGC,E05000048,Barnet,East Barnet,34.9,34.8,2.4,2.6,2.7,2.8
+00ACGD,E05000049,Barnet,East Finchley,37.8,37.8,2.6,2.6,2.7,2.6
+00ACGE,E05000050,Barnet,Edgware,54.0,54.0,2.9,2.9,3.0,3.0
+00ACGF,E05000051,Barnet,Finchley Church End,13.7,13.7,2.9,2.9,2.9,2.9
+00ACGG,E05000052,Barnet,Garden Suburb,24.2,24.2,2.7,2.7,2.7,2.7
+00ACGH,E05000053,Barnet,Golders Green,14.6,14.6,3.4,3.4,3.4,3.4
+00ACGJ,E05000054,Barnet,Hale,48.8,48.8,2.5,2.5,2.5,2.6
+00ACGK,E05000055,Barnet,Hendon,16.4,16.4,2.6,2.6,2.7,2.7
+00ACGL,E05000056,Barnet,High Barnet,47.9,47.9,2.8,2.7,2.7,2.7
+00ACGM,E05000057,Barnet,Mill Hill,59.0,59.0,2.2,2.2,2.2,2.3
+00ACGN,E05000058,Barnet,Oakleigh,15.3,15.3,3.2,3.2,3.2,3.3
+00ACGP,E05000059,Barnet,Totteridge,57.7,57.7,2.7,2.7,2.7,2.5
+00ACGQ,E05000060,Barnet,Underhill,43.7,43.8,2.6,2.6,2.6,2.6
+00ACGR,E05000061,Barnet,West Finchley,13.4,13.4,3.8,3.8,3.7,3.6
+00ACGS,E05000062,Barnet,West Hendon,32.0,32.0,3.5,3.5,3.5,3.5
+00ACGT,E05000063,Barnet,Woodhouse,19.3,19.3,2.8,2.8,2.8,2.9
+00ADGA,E05000064,Bexley,Barnehurst,35.8,36.0,3.0,3.0,3.0,3.1
+00ADGB,E05000065,Bexley,Belvedere,33.2,33.1,2.4,2.4,2.5,2.8
+00ADGC,E05000066,Bexley,Blackfen and Lamorbey,9.5,9.5,2.1,2.0,2.0,2.1
+00ADGD,E05000067,Bexley,Blendon and Penhill,13.9,13.8,2.0,2.0,2.0,2.1
+00ADGE,E05000068,Bexley,Brampton,9.2,9.1,2.5,2.5,2.5,2.7
+00ADGF,E05000069,Bexley,Christchurch,17.3,17.3,3.4,3.4,3.4,3.4
+00ADGG,E05000070,Bexley,Colyers,13.1,13.0,1.9,1.9,1.9,2.0
+00ADGH,E05000071,Bexley,Crayford,42.7,41.7,2.0,2.0,2.1,2.1
+00ADGJ,E05000072,Bexley,Cray Meadows,61.6,61.7,1.8,2.0,2.3,2.3
+00ADGK,E05000073,Bexley,Danson Park,36.3,36.4,2.9,2.9,2.9,2.9
+00ADGL,E05000074,Bexley,East Wickham,26.5,26.8,2.8,2.8,2.8,2.5
+00ADGM,E05000075,Bexley,Erith,44.6,44.6,2.4,2.5,2.5,2.6
+00ADGN,E05000076,Bexley,Falconwood and Welling,0.7,0.7,2.6,2.6,2.6,2.4
+00ADGP,E05000077,Bexley,Lesnes Abbey,36.9,37.0,2.8,2.8,2.8,2.8
+00ADGQ,E05000078,Bexley,Longlands,30.0,28.9,2.6,2.6,2.6,2.7
+00ADGR,E05000079,Bexley,North End,65.3,65.3,2.3,2.4,2.4,2.6
+00ADGS,E05000080,Bexley,Northumberland Heath,13.5,13.6,2.1,2.1,2.1,2.1
+00ADGT,E05000081,Bexley,St. Mary's,46.8,46.8,2.6,2.6,2.6,2.6
+00ADGU,E05000082,Bexley,St. Michael's,5.9,5.9,2.0,2.0,2.0,2.2
+00ADGW,E05000083,Bexley,Sidcup,25.8,25.8,2.9,3.0,3.2,3.2
+00ADGX,E05000084,Bexley,Thamesmead East,70.5,70.5,2.5,2.6,2.6,2.6
+00AEGJ,E05000085,Brent,Alperton,17.7,17.7,2.9,3.0,3.0,3.0
+00AEGK,E05000086,Brent,Barnhill,31.6,31.6,2.8,3.0,3.1,3.0
+00AEGL,E05000087,Brent,Brondesbury Park,9.6,9.7,3.9,4.0,4.0,3.8
+00AEGM,E05000088,Brent,Dollis Hill,26.6,26.6,2.7,2.8,2.8,2.9
+00AEGN,E05000089,Brent,Dudden Hill,11.5,11.6,3.4,3.4,3.5,3.4
+00AEGP,E05000090,Brent,Fryent,39.3,39.3,2.7,2.8,2.8,2.8
+00AEGQ,E05000091,Brent,Harlesden,8.9,8.9,3.7,3.8,3.9,3.8
+00AEGR,E05000092,Brent,Kensal Green,6.9,6.9,3.9,4.1,4.2,4.1
+00AEGS,E05000093,Brent,Kenton,17.0,17.0,2.6,2.6,2.7,2.7
+00AEGT,E05000094,Brent,Kilburn,11.2,11.1,5.4,5.5,5.5,5.5
+00AEGU,E05000095,Brent,Mapesbury,9.7,9.6,4.5,4.5,4.5,4.5
+00AEGW,E05000096,Brent,Northwick Park,32.0,32.0,2.7,2.8,2.9,2.7
+00AEGX,E05000097,Brent,Preston,19.1,19.2,2.9,3.1,3.4,3.4
+00AEGY,E05000098,Brent,Queens Park,19.1,19.0,5.0,5.0,5.1,5.0
+00AEGZ,E05000099,Brent,Queensbury,13.7,13.7,3.0,3.0,3.1,3.0
+00AEHA,E05000100,Brent,Stonebridge,16.3,16.2,2.9,3.0,3.1,3.2
+00AEHB,E05000101,Brent,Sudbury,34.6,34.6,3.3,3.3,3.4,3.3
+00AEHC,E05000102,Brent,Tokyngton,19.7,19.8,3.0,3.3,3.5,3.5
+00AEHD,E05000103,Brent,Welsh Harp,34.2,34.0,2.7,2.8,2.8,2.8
+00AEHE,E05000104,Brent,Wembley Central,20.1,20.1,4.7,4.7,4.8,4.9
+00AEHF,E05000105,Brent,Willesden Green,36.8,36.8,4.4,4.6,4.8,4.6
+00AFGD,E05000106,Bromley,Bickley,22.1,21.5,2.3,2.3,2.2,2.4
+00AFGE,E05000107,Bromley,Biggin Hill,71.4,72.7,1.7,1.8,1.8,1.8
+00AFGF,E05000108,Bromley,Bromley Common and Keston,59.3,58.6,2.3,2.3,2.3,2.3
+00AFGG,E05000109,Bromley,Bromley Town,18.0,17.6,3.8,3.7,3.7,3.8
+00AFGH,E05000110,Bromley,Chelsfield and Pratts Bottom,69.2,68.4,1.9,1.9,1.9,2.1
+00AFGJ,E05000111,Bromley,Chislehurst,60.0,59.1,2.2,2.2,2.2,2.1
+00AFGK,E05000112,Bromley,Clock House,16.3,16.2,3.9,4.0,4.0,4.0
+00AFGL,E05000113,Bromley,Copers Cope,17.1,16.7,3.0,3.1,3.2,3.3
+00AFGM,E05000114,Bromley,Cray Valley East,76.4,76.2,2.3,2.2,2.1,2.1
+00AFGN,E05000115,Bromley,Cray Valley West,24.2,23.4,2.3,2.4,2.5,2.3
+00AFGP,E05000116,Bromley,Crystal Palace,49.3,49.2,4.4,4.4,4.3,4.6
+00AFGQ,E05000117,Bromley,Darwin,88.8,88.5,1.3,1.3,1.3,1.3
+00AFGR,E05000118,Bromley,Farnborough and Crofton,49.7,48.9,2.2,2.3,2.3,2.5
+00AFGS,E05000119,Bromley,Hayes and Coney Hall,69.5,68.9,2.3,2.3,2.3,2.3
+00AFGT,E05000120,Bromley,Kelsey and Eden Park,43.6,42.7,2.6,2.6,2.6,2.7
+00AFGU,E05000121,Bromley,Mottingham and Chislehurst North,44.4,44.0,2.6,2.5,2.5,2.5
+00AFGW,E05000122,Bromley,Orpington,26.3,24.6,2.7,2.7,2.7,2.9
+00AFGX,E05000123,Bromley,Penge and Cator,25.2,24.9,3.9,4.0,4.1,4.2
+00AFGY,E05000124,Bromley,Petts Wood and Knoll,24.6,24.3,2.3,2.4,2.6,2.8
+00AFGZ,E05000125,Bromley,Plaistow and Sundridge,40.5,40.3,2.8,2.8,2.9,2.9
+00AFHA,E05000126,Bromley,Shortlands,3.1,3.0,2.5,2.5,2.5,2.7
+00AFHB,E05000127,Bromley,West Wickham,32.6,31.8,2.2,2.1,2.1,2.2
+00AGGD,E05000128,Camden,Belsize,1.3,1.3,4.1,4.1,4.1,4.2
+00AGGE,E05000129,Camden,Bloomsbury,9.2,9.2,7.9,7.9,7.9,8.0
+00AGGF,E05000130,Camden,Camden Town with Primrose Hill,15.2,15.2,6.1,5.8,5.5,5.4
+00AGGG,E05000131,Camden,Cantelowes,7.4,7.4,4.9,4.9,4.9,4.9
+00AGGH,E05000132,Camden,Fortune Green,18.0,18.4,4.5,4.5,4.5,4.8
+00AGGJ,E05000133,Camden,Frognal and Fitzjohns,5.7,5.7,4.3,4.5,4.7,4.8
+00AGGK,E05000134,Camden,Gospel Oak,15.9,15.9,4.0,4.0,4.0,4.1
+00AGGL,E05000135,Camden,Hampstead Town,54.2,53.9,4.1,4.1,4.0,4.0
+00AGGM,E05000136,Camden,Haverstock,8.2,8.2,5.0,4.9,4.8,4.7
+00AGGN,E05000137,Camden,Highgate,65.2,65.2,3.9,3.9,3.9,3.9
+00AGGP,E05000138,Camden,Holborn and Covent Garden,7.5,7.5,7.9,7.9,7.9,7.9
+00AGGQ,E05000139,Camden,Kentish Town,5.3,5.3,5.5,5.5,5.5,5.7
+00AGGR,E05000140,Camden,Kilburn,13.4,13.4,5.7,5.7,5.6,5.5
+00AGGS,E05000141,Camden,King's Cross,13.5,13.5,7.6,7.7,7.7,7.8
+00AGGT,E05000142,Camden,Regent's Park,27.0,27.0,6.6,6.6,6.6,6.8
+00AGGU,E05000143,Camden,St. Pancras and Somers Town,13.5,13.6,6.3,6.4,6.5,7.1
+00AGGW,E05000144,Camden,Swiss Cottage,14.5,14.5,6.1,6.2,6.2,6.2
+00AGGX,E05000145,Camden,West Hampstead,8.8,9.4,5.8,5.9,5.9,6.0
+00AHGE,E05000146,Croydon,Addiscombe,2.3,2.3,4.3,4.5,4.6,4.6
+00AHGF,E05000147,Croydon,Ashburton,22.2,22.2,2.7,2.7,2.8,2.9
+00AHGG,E05000148,Croydon,Bensham Manor,7.7,7.8,3.4,3.4,3.4,3.3
+00AHGH,E05000149,Croydon,Broad Green,4.5,4.6,4.4,4.5,4.6,4.7
+00AHGJ,E05000150,Croydon,Coulsdon East,56.8,56.8,1.8,1.7,1.7,1.9
+00AHGK,E05000151,Croydon,Coulsdon West,17.1,17.1,2.3,2.4,2.6,2.5
+00AHGL,E05000152,Croydon,Croham,19.1,19.1,3.2,3.2,3.3,3.3
+00AHGM,E05000153,Croydon,Fairfield,17.5,17.5,5.8,5.8,5.8,5.7
+00AHGN,E05000154,Croydon,Fieldway,22.8,22.9,3.1,3.1,3.2,2.9
+00AHGP,E05000155,Croydon,Heathfield,61.3,61.3,2.2,2.3,2.3,2.3
+00AHGQ,E05000156,Croydon,Kenley,39.6,39.6,1.9,1.9,1.9,1.9
+00AHGR,E05000157,Croydon,New Addington,31.2,31.2,2.9,3.0,3.0,2.7
+00AHGS,E05000158,Croydon,Norbury,16.1,15.8,2.9,2.9,2.9,3.1
+00AHGT,E05000159,Croydon,Purley,3.8,3.8,2.7,2.8,2.9,2.9
+00AHGU,E05000160,Croydon,Sanderstead,48.6,48.6,1.6,1.6,1.6,1.7
+00AHGW,E05000161,Croydon,Selhurst,18.3,18.3,4.2,4.2,4.3,4.2
+00AHGX,E05000162,Croydon,Selsdon and Ballards,55.2,55.2,2.0,2.0,2.0,2.0
+00AHGY,E05000163,Croydon,Shirley,16.0,16.0,1.9,1.9,2.0,2.0
+00AHGZ,E05000164,Croydon,South Norwood,17.5,17.5,3.8,3.9,4.0,3.9
+00AHHA,E05000165,Croydon,Thornton Heath,11.2,11.2,3.0,3.1,3.1,3.3
+00AHHB,E05000166,Croydon,Upper Norwood,19.5,19.4,2.8,2.9,3.0,3.0
+00AHHC,E05000167,Croydon,Waddon,32.6,32.7,3.7,3.6,3.6,3.6
+00AHHD,E05000168,Croydon,West Thornton,17.7,18.7,3.0,3.0,3.1,3.1
+00AHHE,E05000169,Croydon,Woodside,33.3,33.3,3.0,3.4,3.8,3.7
+00AJGC,E05000170,Ealing,Acton Central,24.2,24.2,3.3,3.3,3.3,3.1
+00AJGD,E05000171,Ealing,Cleveland,34.8,34.7,2.8,2.9,2.9,3.0
+00AJGE,E05000172,Ealing,Dormers Wells,47.3,47.3,3.1,3.2,3.3,3.3
+00AJGF,E05000173,Ealing,Ealing Broadway,6.1,6.1,4.5,4.6,4.7,5.0
+00AJGG,E05000174,Ealing,Ealing Common,22.2,22.2,3.6,3.4,3.3,3.6
+00AJGH,E05000175,Ealing,East Acton,19.6,19.6,4.0,4.1,4.2,4.0
+00AJGJ,E05000176,Ealing,Elthorne,34.2,34.2,3.5,3.6,3.7,3.8
+00AJGK,E05000177,Ealing,Greenford Broadway,26.2,26.2,3.1,3.2,3.3,3.4
+00AJGL,E05000178,Ealing,Greenford Green,22.6,22.6,2.7,2.7,2.7,2.6
+00AJGM,E05000179,Ealing,Hanger Hill,26.7,26.7,3.6,3.7,3.8,3.7
+00AJGN,E05000180,Ealing,Hobbayne,36.1,36.1,3.0,3.0,3.0,3.1
+00AJGP,E05000181,Ealing,Lady Margaret,19.4,19.4,2.8,2.9,2.9,3.0
+00AJGQ,E05000182,Ealing,Northfield,25.6,25.6,3.3,3.3,3.4,3.4
+00AJGR,E05000183,Ealing,North Greenford,53.3,53.3,2.7,2.7,2.7,2.6
+00AJGS,E05000184,Ealing,Northolt Mandeville,34.4,34.5,2.8,3.0,3.2,3.2
+00AJGT,E05000185,Ealing,Northolt West End,56.3,56.3,2.4,2.4,2.4,2.5
+00AJGU,E05000186,Ealing,Norwood Green,47.6,54.5,2.2,2.2,2.2,2.3
+00AJGW,E05000187,Ealing,Perivale,38.3,38.3,2.1,2.3,2.4,2.3
+00AJGX,E05000188,Ealing,South Acton,17.5,17.5,4.5,4.7,4.8,4.6
+00AJGY,E05000189,Ealing,Southall Broadway,14.1,14.1,3.2,3.3,3.4,3.2
+00AJGZ,E05000190,Ealing,Southall Green,16.3,16.3,3.0,3.0,3.1,3.0
+00AJHA,E05000191,Ealing,Southfield,14.3,14.3,3.3,3.4,3.5,3.1
+00AJHB,E05000192,Ealing,Walpole,20.1,20.1,3.7,3.7,3.7,3.8
+00AKGL,E05000193,Enfield,Bowes,15.3,15.3,3.6,3.7,3.9,3.9
+00AKGM,E05000194,Enfield,Bush Hill Park,29.6,29.6,2.7,2.7,2.7,2.7
+00AKGN,E05000195,Enfield,Chase,81.5,81.5,1.8,1.9,1.9,2.0
+00AKGP,E05000196,Enfield,Cockfosters,68.8,68.8,2.5,2.5,2.5,2.6
+00AKGQ,E05000197,Enfield,Edmonton Green,33.2,33.2,4.0,4.0,4.0,3.9
+00AKGR,E05000198,Enfield,Enfield Highway,40.6,40.6,2.5,2.5,2.5,2.5
+00AKGS,E05000199,Enfield,Enfield Lock,39.6,39.6,2.5,2.6,2.6,2.6
+00AKGT,E05000200,Enfield,Grange,27.4,27.4,3.0,3.0,3.0,3.1
+00AKGU,E05000201,Enfield,Haselbury,27.0,27.0,3.1,3.1,3.0,3.0
+00AKGW,E05000202,Enfield,Highlands,56.5,56.4,2.5,2.6,2.6,2.7
+00AKGX,E05000203,Enfield,Jubilee,60.6,60.6,2.5,2.5,2.5,2.5
+00AKGY,E05000204,Enfield,Lower Edmonton,40.6,40.6,3.4,3.4,3.4,3.2
+00AKGZ,E05000205,Enfield,Palmers Green,15.4,15.4,2.5,2.5,2.5,2.5
+00AKHA,E05000206,Enfield,Ponders End,44.5,44.5,3.2,3.2,3.3,3.3
+00AKHB,E05000207,Enfield,Southbury,29.3,29.3,3.1,3.1,3.1,3.1
+00AKHC,E05000208,Enfield,Southgate,27.2,27.1,3.0,3.1,3.1,3.1
+00AKHD,E05000209,Enfield,Southgate Green,20.6,20.6,3.7,3.8,3.8,3.9
+00AKHE,E05000210,Enfield,Town,16.0,16.0,2.6,2.5,2.5,2.6
+00AKHF,E05000211,Enfield,Turkey Street,30.5,30.5,2.5,2.5,2.5,2.5
+00AKHG,E05000212,Enfield,Upper Edmonton,17.6,17.6,3.1,3.2,3.3,3.4
+00AKHH,E05000213,Enfield,Winchmore Hill,25.2,25.2,2.7,2.7,2.7,2.9
+00ALGP,E05000214,Greenwich,Abbey Wood,43.9,44.0,3.0,3.1,3.1,3.1
+00ALGQ,E05000215,Greenwich,Blackheath Westcombe,15.5,15.4,3.4,3.4,3.4,3.4
+00ALGR,E05000216,Greenwich,Charlton,31.6,31.5,3.7,3.7,3.7,4.0
+00ALGS,E05000217,Greenwich,Coldharbour and New Eltham,20.0,20.0,2.8,2.8,2.8,2.9
+00ALGT,E05000218,Greenwich,Eltham North,24.6,24.6,2.9,2.9,2.8,2.9
+00ALGU,E05000219,Greenwich,Eltham South,54.6,54.6,3.3,3.2,3.2,3.3
+00ALGW,E05000220,Greenwich,Eltham West,30.5,30.5,3.0,2.9,2.9,3.1
+00ALGX,E05000221,Greenwich,Glyndon,32.6,32.6,3.8,3.8,3.8,4.0
+00ALGY,E05000222,Greenwich,Greenwich West,49.0,49.0,4.2,4.3,4.3,4.6
+00ALGZ,E05000223,Greenwich,Kidbrooke with Hornfair,28.2,28.2,2.6,2.6,2.5,2.6
+00ALHA,E05000224,Greenwich,Middle Park and Sutcliffe,37.0,37.0,2.4,2.4,2.3,2.3
+00ALHB,E05000225,Greenwich,Peninsula,33.7,33.7,3.9,4.1,4.3,4.5
+00ALHC,E05000226,Greenwich,Plumstead,41.0,41.0,3.4,3.4,3.4,3.6
+00ALHD,E05000227,Greenwich,Shooters Hill,57.1,57.2,2.4,2.4,2.4,2.4
+00ALHE,E05000228,Greenwich,Thamesmead Moorings,55.5,55.4,2.6,2.6,2.6,2.6
+00ALHF,E05000229,Greenwich,Woolwich Common,39.4,39.4,4.2,4.1,4.0,4.0
+00ALHG,E05000230,Greenwich,Woolwich Riverside,34.9,34.9,4.3,4.2,4.2,4.5
+00AMGA,E05000231,Hackney,Brownswood,28.2,25.6,5.7,5.8,5.9,6.1
+00AMGB,E05000232,Hackney,Cazenove,12.8,12.8,4.8,4.8,4.7,4.7
+00AMGC,E05000233,Hackney,Chatham,20.5,20.4,5.7,5.8,5.9,5.8
+00AMGD,E05000234,Hackney,Clissold,12.3,12.3,3.6,3.7,3.8,3.6
+00AMGE,E05000235,Hackney,Dalston,17.1,17.1,5.4,5.6,5.7,6.0
+00AMGF,E05000236,Hackney,De Beauvoir,14.2,14.2,4.5,4.6,4.7,4.9
+00AMGG,E05000237,Hackney,Hackney Central,14.1,14.1,6.6,6.7,6.8,6.7
+00AMGH,E05000238,Hackney,Hackney Downs,33.8,33.8,5.3,5.3,5.3,5.5
+00AMGJ,E05000239,Hackney,Haggerston,19.1,19.1,5.1,5.2,5.2,5.7
+00AMGK,E05000240,Hackney,Hoxton,27.6,27.6,5.5,5.6,5.6,5.8
+00AMGL,E05000241,Hackney,King's Park,67.7,66.9,3.1,3.1,3.0,2.9
+00AMGM,E05000242,Hackney,Leabridge,23.0,23.0,4.2,4.3,4.4,4.3
+00AMGN,E05000243,Hackney,Lordship,33.6,33.6,3.7,3.7,3.7,3.7
+00AMGP,E05000244,Hackney,New River,28.0,28.0,5.0,5.0,4.9,5.0
+00AMGQ,E05000245,Hackney,Queensbridge,15.6,15.6,4.0,4.1,4.2,4.8
+00AMGR,E05000246,Hackney,Springfield,26.5,26.5,3.0,3.1,3.2,3.2
+00AMGS,E05000247,Hackney,Stoke Newington Central,13.3,13.3,5.0,5.2,5.3,5.3
+00AMGT,E05000248,Hackney,Victoria,20.9,21.0,4.6,4.7,4.7,4.7
+00AMGU,E05000249,Hackney,Wick,29.5,48.8,3.9,4.0,4.1,3.9
+00ANGA,E05000250,Hammersmith and Fulham,Addison,0.3,0.3,6.3,6.4,6.4,6.5
+00ANGB,E05000251,Hammersmith and Fulham,Askew,3.6,3.6,3.5,3.5,3.6,3.6
+00ANGC,E05000252,Hammersmith and Fulham,Avonmore and Brook Green,8.8,8.8,5.8,5.9,5.9,6.0
+00ANGD,E05000253,Hammersmith and Fulham,College Park and Old Oak,43.8,43.8,4.5,4.6,4.7,4.9
+00ANGE,E05000254,Hammersmith and Fulham,Fulham Broadway,3.1,3.1,4.9,5.0,5.1,5.4
+00ANGF,E05000255,Hammersmith and Fulham,Fulham Reach,20.9,20.9,3.7,3.8,3.8,4.2
+00ANGG,E05000256,Hammersmith and Fulham,Hammersmith Broadway,9.4,9.1,5.9,6.0,6.1,6.0
+00ANGH,E05000257,Hammersmith and Fulham,Munster,8.5,8.5,3.6,3.7,3.9,3.7
+00ANGJ,E05000258,Hammersmith and Fulham,North End,10.6,10.7,5.2,5.3,5.3,5.2
+00ANGK,E05000259,Hammersmith and Fulham,Palace Riverside,54.7,54.7,3.8,3.9,4.0,3.7
+00ANGL,E05000260,Hammersmith and Fulham,Parsons Green and Walham,9.8,9.8,4.6,4.7,4.9,4.7
+00ANGM,E05000261,Hammersmith and Fulham,Ravenscourt Park,16.3,16.3,4.2,4.2,4.2,4.0
+00ANGN,E05000262,Hammersmith and Fulham,Sands End,25.0,25.0,3.0,3.0,3.1,3.4
+00ANGP,E05000263,Hammersmith and Fulham,Shepherd's Bush Green,9.7,9.7,5.6,5.6,5.6,5.6
+00ANGQ,E05000264,Hammersmith and Fulham,Town,0.0,0.0,4.6,4.8,5.1,4.6
+00ANGR,E05000265,Hammersmith and Fulham,Wormholt and White City,4.2,4.6,3.1,3.1,3.1,3.2
+00APGA,E05000266,Haringey,Alexandra,52.3,52.2,3.0,3.0,3.0,3.3
+00APGB,E05000267,Haringey,Bounds Green,25.3,22.8,4.6,4.7,4.8,4.9
+00APGC,E05000268,Haringey,Bruce Grove,4.9,4.9,4.4,4.4,4.4,4.5
+00APGD,E05000269,Haringey,Crouch End,14.2,13.9,3.2,3.3,3.4,3.4
+00APGE,E05000270,Haringey,Fortis Green,24.6,24.0,3.1,3.1,3.1,3.1
+00APGF,E05000271,Haringey,Harringay,45.4,45.4,4.4,4.7,5.0,5.3
+00APGG,E05000272,Haringey,Highgate,42.4,41.8,3.2,3.6,3.9,4.0
+00APGH,E05000273,Haringey,Hornsey,14.5,10.0,2.9,3.0,3.2,3.4
+00APGJ,E05000274,Haringey,Muswell Hill,31.2,30.7,3.1,3.2,3.2,3.2
+00APGK,E05000275,Haringey,Noel Park,11.5,11.5,5.8,5.9,6.0,6.1
+00APGL,E05000276,Haringey,Northumberland Park,23.0,23.0,3.8,3.9,4.0,4.1
+00APGM,E05000277,Haringey,St. Ann's,20.0,20.0,3.5,3.6,3.7,3.9
+00APGN,E05000278,Haringey,Seven Sisters,23.4,21.8,4.2,4.3,4.3,4.7
+00APGP,E05000279,Haringey,Stroud Green,24.6,24.7,3.8,3.8,3.9,4.6
+00APGQ,E05000280,Haringey,Tottenham Green,10.5,10.5,5.7,5.7,5.7,5.8
+00APGR,E05000281,Haringey,Tottenham Hale,29.0,29.0,4.2,4.2,4.3,4.7
+00APGS,E05000282,Haringey,West Green,38.2,38.2,3.8,3.8,3.8,4.1
+00APGT,E05000283,Haringey,White Hart Lane,27.8,27.9,3.2,3.2,3.3,3.3
+00APGU,E05000284,Haringey,Woodside,26.8,26.8,4.5,4.6,4.7,4.7
+00AQFY,E05000285,Harrow,Belmont,11.0,11.0,1.5,1.7,1.9,2.0
+00AQFZ,E05000286,Harrow,Canons,57.3,57.3,2.6,2.7,2.7,2.7
+00AQGA,E05000287,Harrow,Edgware,15.0,14.9,2.9,2.9,2.9,2.9
+00AQGB,E05000288,Harrow,Greenhill,7.7,7.7,3.8,4.0,4.2,4.6
+00AQGC,E05000289,Harrow,Harrow on the Hill,43.4,43.4,3.1,3.2,3.2,3.1
+00AQGD,E05000290,Harrow,Harrow Weald,56.3,56.3,2.4,2.4,2.5,2.8
+00AQGE,E05000291,Harrow,Hatch End,31.1,31.0,2.0,2.1,2.2,2.3
+00AQGF,E05000292,Harrow,Headstone North,49.5,49.5,2.6,2.6,2.7,2.7
+00AQGG,E05000293,Harrow,Headstone South,14.4,14.4,2.9,3.0,3.0,3.1
+00AQGH,E05000294,Harrow,Kenton East,7.2,7.2,2.3,2.4,2.5,2.5
+00AQGJ,E05000295,Harrow,Kenton West,17.9,17.9,2.8,2.8,2.8,2.9
+00AQGK,E05000296,Harrow,Marlborough,8.3,8.3,3.6,3.6,3.6,3.8
+00AQGL,E05000297,Harrow,Pinner,28.6,28.6,1.9,1.9,1.9,1.8
+00AQGM,E05000298,Harrow,Pinner South,22.2,22.2,2.0,2.1,2.2,2.2
+00AQGN,E05000299,Harrow,Queensbury,23.3,23.3,2.4,2.5,2.6,2.6
+00AQGP,E05000300,Harrow,Rayners Lane,10.7,10.7,3.2,3.3,3.3,3.2
+00AQGQ,E05000301,Harrow,Roxbourne,15.4,15.3,2.9,3.0,3.0,3.0
+00AQGR,E05000302,Harrow,Roxeth,18.4,18.4,2.9,3.1,3.2,3.0
+00AQGS,E05000303,Harrow,Stanmore Park,45.8,45.8,1.8,1.9,2.0,2.1
+00AQGT,E05000304,Harrow,Wealdstone,3.4,3.3,3.1,3.1,3.1,3.3
+00AQGU,E05000305,Harrow,West Harrow,19.7,19.7,3.2,3.2,3.3,3.2
+00ARGC,E05000306,Havering,Brooklands,44.9,44.9,2.8,2.8,2.9,2.9
+00ARGD,E05000307,Havering,Cranham,55.9,55.9,2.1,2.2,2.3,2.3
+00ARGE,E05000308,Havering,Elm Park,55.7,55.7,2.7,2.7,2.7,2.6
+00ARGF,E05000309,Havering,Emerson Park,31.2,31.3,2.0,2.0,2.0,2.0
+00ARGG,E05000310,Havering,Gooshays,68.4,68.4,2.6,2.6,2.6,2.6
+00ARGH,E05000311,Havering,Hacton,24.1,24.2,2.5,2.5,2.4,2.4
+00ARGJ,E05000312,Havering,Harold Wood,60.7,60.7,2.4,2.4,2.4,2.4
+00ARGK,E05000313,Havering,Havering Park,75.3,75.2,2.1,2.1,2.1,2.1
+00ARGL,E05000314,Havering,Heaton,45.3,45.3,2.1,2.1,2.0,2.1
+00ARGM,E05000315,Havering,Hylands,26.0,26.1,2.1,2.1,2.1,2.1
+00ARGN,E05000316,Havering,Mawneys,32.1,32.1,2.4,2.4,2.4,2.5
+00ARGP,E05000317,Havering,Pettits,32.4,32.4,2.1,2.2,2.2,2.2
+00ARGQ,E05000318,Havering,Rainham and Wennington,79.0,79.0,1.9,2.0,2.0,2.0
+00ARGR,E05000319,Havering,Romford Town,8.1,8.1,4.3,4.3,4.3,4.2
+00ARGS,E05000320,Havering,St. Andrew's,18.8,18.7,3.3,3.3,3.3,3.2
+00ARGT,E05000321,Havering,South Hornchurch,45.0,45.1,2.4,2.4,2.4,2.5
+00ARGU,E05000322,Havering,Squirrel's Heath,16.7,16.7,2.7,2.6,2.6,2.6
+00ARGW,E05000323,Havering,Upminster,82.0,82.0,2.0,2.0,2.0,1.9
+00ASGG,E05000324,Hillingdon,Barnhill,27.8,27.7,2.4,2.4,2.4,2.4
+00ASGH,E05000325,Hillingdon,Botwell,32.2,32.2,2.7,2.8,3.0,3.1
+00ASGJ,E05000326,Hillingdon,Brunel,40.5,40.5,2.7,2.8,2.8,2.4
+00ASGK,E05000327,Hillingdon,Cavendish,17.7,17.7,2.1,2.1,2.1,2.1
+00ASGL,E05000328,Hillingdon,Charville,44.9,44.9,2.1,2.2,2.4,2.4
+00ASGM,E05000329,Hillingdon,Eastcote and East Ruislip,33.4,33.4,2.0,2.0,2.1,1.7
+00ASGN,E05000330,Hillingdon,Harefield,85.5,85.5,1.3,1.4,1.5,1.4
+00ASGP,E05000331,Hillingdon,Heathrow Villages,31.4,29.5,2.5,2.6,2.7,2.6
+00ASGQ,E05000332,Hillingdon,Hillingdon East,48.1,48.2,2.0,2.0,2.0,1.7
+00ASGR,E05000333,Hillingdon,Ickenham,55.7,55.7,2.0,2.0,2.1,2.1
+00ASGS,E05000334,Hillingdon,Manor,18.0,18.1,3.0,3.0,3.0,2.9
+00ASGT,E05000335,Hillingdon,Northwood,61.0,61.0,2.2,2.2,2.2,2.2
+00ASGU,E05000336,Hillingdon,Northwood Hills,33.3,33.3,2.1,2.2,2.2,2.0
+00ASGW,E05000337,Hillingdon,Pinkwell,26.9,26.9,2.5,2.5,2.6,2.7
+00ASGX,E05000338,Hillingdon,South Ruislip,62.8,62.8,2.5,2.6,2.7,2.5
+00ASGY,E05000339,Hillingdon,Townfield,30.8,30.9,2.9,2.9,3.0,3.1
+00ASGZ,E05000340,Hillingdon,Uxbridge North,34.5,34.4,2.3,2.4,2.4,2.4
+00ASHA,E05000341,Hillingdon,Uxbridge South,26.2,25.9,2.3,2.4,2.6,2.5
+00ASHB,E05000342,Hillingdon,West Drayton,32.0,31.9,2.1,2.2,2.3,2.4
+00ASHC,E05000343,Hillingdon,West Ruislip,49.5,49.5,2.4,2.4,2.4,2.2
+00ASHD,E05000344,Hillingdon,Yeading,33.3,33.4,2.0,2.0,2.1,1.9
+00ASHE,E05000345,Hillingdon,Yiewsley,41.3,41.3,2.4,2.4,2.5,2.5
+00ATFY,E05000346,Hounslow,Bedfont,52.5,52.5,1.9,2.0,2.1,2.1
+00ATFZ,E05000347,Hounslow,Brentford,42.9,42.8,3.1,3.2,3.2,3.2
+00ATGA,E05000348,Hounslow,Chiswick Homefields,42.2,42.2,3.5,3.6,3.8,3.6
+00ATGB,E05000349,Hounslow,Chiswick Riverside,35.2,35.2,2.9,2.9,2.9,2.8
+00ATGC,E05000350,Hounslow,Cranford,26.6,26.4,2.4,2.4,2.4,2.4
+00ATGD,E05000351,Hounslow,Feltham North,36.4,37.0,2.8,2.9,3.0,2.9
+00ATGE,E05000352,Hounslow,Feltham West,41.4,41.4,2.2,2.2,2.3,2.4
+00ATGF,E05000353,Hounslow,Hanworth,45.3,45.6,2.4,2.5,2.6,2.6
+00ATGG,E05000354,Hounslow,Hanworth Park,41.4,41.4,2.4,2.4,2.5,2.6
+00ATGH,E05000355,Hounslow,Heston Central,15.8,15.8,2.8,2.9,2.9,2.9
+00ATGJ,E05000356,Hounslow,Heston East,27.1,27.1,2.2,2.3,2.4,2.3
+00ATGK,E05000357,Hounslow,Heston West,39.1,39.1,2.1,2.2,2.3,2.3
+00ATGL,E05000358,Hounslow,Hounslow Central,11.1,11.1,4.7,4.9,5.1,5.1
+00ATGM,E05000359,Hounslow,Hounslow Heath,48.7,48.6,3.0,3.1,3.2,3.2
+00ATGN,E05000360,Hounslow,Hounslow South,17.9,17.9,2.4,2.4,2.4,2.5
+00ATGP,E05000361,Hounslow,Hounslow West,10.2,10.2,3.9,3.9,4.0,3.9
+00ATGQ,E05000362,Hounslow,Isleworth,22.6,22.6,2.0,2.2,2.4,2.4
+00ATGR,E05000363,Hounslow,Osterley and Spring Grove,54.2,54.3,2.8,2.9,2.9,2.8
+00ATGS,E05000364,Hounslow,Syon,42.5,42.5,3.4,3.5,3.6,3.6
+00ATGT,E05000365,Hounslow,Turnham Green,7.4,7.4,4.5,4.6,4.7,4.4
+00AUFX,E05000366,Islington,Barnsbury,11.0,11.0,5.6,5.5,5.5,5.7
+00AUFY,E05000367,Islington,Bunhill,13.5,13.5,6.5,6.5,6.5,7.1
+00AUFZ,E05000368,Islington,Caledonian,16.4,16.4,5.4,5.3,5.3,5.3
+00AUGA,E05000369,Islington,Canonbury,14.4,14.4,6.0,6.1,6.2,6.5
+00AUGB,E05000370,Islington,Clerkenwell,9.3,9.3,6.4,6.4,6.4,6.9
+00AUGC,E05000371,Islington,Finsbury Park,15.9,15.9,6.0,6.1,6.1,6.6
+00AUGD,E05000372,Islington,Highbury East,21.6,21.6,4.7,4.8,4.9,4.7
+00AUGE,E05000373,Islington,Highbury West,10.5,10.6,6.0,6.0,6.0,5.7
+00AUGF,E05000374,Islington,Hillrise,18.3,18.3,4.3,4.2,4.1,4.2
+00AUGG,E05000375,Islington,Holloway,16.9,16.9,5.8,5.8,5.9,5.9
+00AUGH,E05000376,Islington,Junction,16.6,16.6,5.5,5.7,5.9,6.0
+00AUGJ,E05000377,Islington,Mildmay,10.4,10.6,5.7,5.8,5.9,6.1
+00AUGK,E05000378,Islington,St. George's,8.1,8.1,4.3,4.5,4.6,4.5
+00AUGL,E05000379,Islington,St. Mary's,9.6,9.6,6.7,6.7,6.7,6.7
+00AUGM,E05000380,Islington,St. Peter's,10.4,10.4,5.2,5.2,5.1,5.3
+00AUGN,E05000381,Islington,Tollington,13.3,13.3,4.0,4.0,4.0,4.5
+00AWFY,E05000382,Kensington and Chelsea,Abingdon,5.9,5.9,6.4,6.5,6.5,6.5
+00AWFZ,E05000383,Kensington and Chelsea,Brompton,10.8,10.8,6.9,7.0,7.0,6.8
+00AWGA,E05000384,Kensington and Chelsea,Campden,27.9,27.8,6.8,6.8,6.9,6.8
+00AWGB,E05000385,Kensington and Chelsea,Colville,10.5,10.5,5.4,5.5,5.6,5.4
+00AWGC,E05000386,Kensington and Chelsea,Courtfield,13.3,13.4,7.0,6.9,6.9,6.9
+00AWGD,E05000387,Kensington and Chelsea,Cremorne,29.2,29.3,4.3,4.2,4.2,4.7
+00AWGE,E05000388,Kensington and Chelsea,Earl's Court,10.0,10.0,7.0,7.0,7.0,7.0
+00AWGF,E05000389,Kensington and Chelsea,Golborne,34.6,34.6,4.3,4.3,4.4,4.5
+00AWGG,E05000390,Kensington and Chelsea,Hans Town,8.5,8.5,6.9,6.8,6.8,6.6
+00AWGH,E05000391,Kensington and Chelsea,Holland,28.2,27.7,5.6,5.7,5.7,6.0
+00AWGJ,E05000392,Kensington and Chelsea,Norland,15.3,15.4,5.6,5.6,5.6,5.4
+00AWGK,E05000393,Kensington and Chelsea,Notting Barns,9.3,9.3,4.0,4.0,4.0,4.2
+00AWGL,E05000394,Kensington and Chelsea,Pembridge,11.9,11.9,7.1,7.1,7.1,7.0
+00AWGM,E05000395,Kensington and Chelsea,Queen's Gate,5.8,5.8,6.1,6.1,6.1,6.0
+00AWGN,E05000396,Kensington and Chelsea,Redcliffe,28.4,28.1,6.0,6.1,6.2,6.2
+00AWGP,E05000397,Kensington and Chelsea,Royal Hospital,43.1,43.1,3.8,4.4,5.1,5.0
+00AWGQ,E05000398,Kensington and Chelsea,St. Charles,21.9,21.9,3.6,3.7,3.8,3.8
+00AWGR,E05000399,Kensington and Chelsea,Stanley,9.1,9.1,5.3,5.5,5.8,5.6
+00AXFX,E05000400,Kingston upon Thames,Alexandra,43.5,43.7,2.1,2.1,2.1,2.2
+00AXFY,E05000401,Kingston upon Thames,Berrylands,10.8,10.9,2.4,2.5,2.5,2.8
+00AXFZ,E05000402,Kingston upon Thames,Beverley,26.5,26.4,2.6,2.6,2.7,2.8
+00AXGA,E05000403,Kingston upon Thames,Canbury,7.0,7.0,3.7,3.8,3.9,4.1
+00AXGB,E05000404,Kingston upon Thames,Chessington North and Hook,27.5,27.5,2.3,2.3,2.4,2.4
+00AXGC,E05000405,Kingston upon Thames,Chessington South,75.7,75.7,2.2,2.2,2.3,2.4
+00AXGD,E05000406,Kingston upon Thames,Coombe Hill,42.1,42.1,2.5,2.4,2.4,2.5
+00AXGE,E05000407,Kingston upon Thames,Coombe Vale,11.0,11.0,2.3,2.3,2.3,2.3
+00AXGF,E05000408,Kingston upon Thames,Grove,23.6,23.6,4.2,4.2,4.1,4.2
+00AXGG,E05000409,Kingston upon Thames,Norbiton,34.5,34.5,3.4,3.4,3.4,3.6
+00AXGH,E05000410,Kingston upon Thames,Old Malden,21.6,21.3,2.4,2.4,2.4,2.7
+00AXGJ,E05000411,Kingston upon Thames,St. James,28.2,28.2,2.6,2.6,2.5,2.6
+00AXGK,E05000412,Kingston upon Thames,St. Mark's,23.9,23.9,3.7,3.7,3.7,3.7
+00AXGL,E05000413,Kingston upon Thames,Surbiton Hill,5.8,5.8,2.9,3.1,3.4,3.3
+00AXGM,E05000414,Kingston upon Thames,Tolworth and Hook Rise,33.1,33.1,2.1,2.2,2.3,2.3
+00AXGN,E05000415,Kingston upon Thames,Tudor,22.7,22.7,2.3,2.3,2.2,2.3
+00AYFZ,E05000416,Lambeth,Bishop's,31.6,31.6,7.5,7.4,7.4,7.6
+00AYGA,E05000417,Lambeth,Brixton Hill,13.1,13.1,4.9,4.9,4.9,4.9
+00AYGB,E05000418,Lambeth,Clapham Common,27.9,27.9,4.3,4.3,4.3,4.1
+00AYGC,E05000419,Lambeth,Clapham Town,13.2,13.1,5.2,5.2,5.2,5.1
+00AYGD,E05000420,Lambeth,Coldharbour,14.4,14.4,5.2,5.3,5.3,5.4
+00AYGE,E05000421,Lambeth,Ferndale,10.2,10.3,6.3,6.3,6.3,6.3
+00AYGF,E05000422,Lambeth,Gipsy Hill,25.7,25.7,3.6,3.6,3.6,3.7
+00AYGG,E05000423,Lambeth,Herne Hill,37.9,37.9,4.2,4.2,4.2,4.5
+00AYGH,E05000424,Lambeth,Knight's Hill,13.3,13.3,3.8,3.9,4.0,4.1
+00AYGJ,E05000425,Lambeth,Larkhall,20.0,20.0,5.3,5.4,5.4,5.2
+00AYGK,E05000426,Lambeth,Oval,24.9,24.9,6.4,6.5,6.6,6.9
+00AYGL,E05000427,Lambeth,Prince's,20.7,20.7,6.0,6.0,6.0,6.3
+00AYGM,E05000428,Lambeth,St. Leonard's,13.2,12.1,5.6,5.6,5.6,5.9
+00AYGN,E05000429,Lambeth,Stockwell,13.2,13.2,5.6,5.6,5.7,5.4
+00AYGP,E05000430,Lambeth,Streatham Hill,14.2,14.1,5.0,5.0,5.0,5.3
+00AYGQ,E05000431,Lambeth,Streatham South,26.6,26.0,3.3,3.6,3.8,4.1
+00AYGR,E05000432,Lambeth,Streatham Wells,18.3,18.3,4.2,4.3,4.3,4.4
+00AYGS,E05000433,Lambeth,Thornton,22.4,22.4,3.2,3.2,3.2,3.5
+00AYGT,E05000434,Lambeth,Thurlow Park,19.7,19.7,4.8,4.8,4.8,5.0
+00AYGU,E05000435,Lambeth,Tulse Hill,16.6,16.6,4.4,4.4,4.4,4.4
+00AYGW,E05000436,Lambeth,Vassall,16.8,16.8,4.4,4.5,4.5,4.4
+00AZGD,E05000437,Lewisham,Bellingham,46.7,46.7,2.9,2.9,2.9,3.0
+00AZGE,E05000438,Lewisham,Blackheath,34.6,34.6,4.8,4.8,4.8,4.9
+00AZGF,E05000439,Lewisham,Brockley,13.5,13.3,5.2,5.3,5.3,5.8
+00AZGG,E05000440,Lewisham,Catford South,3.0,3.0,3.2,3.2,3.2,3.3
+00AZGH,E05000441,Lewisham,Crofton Park,20.7,20.7,3.8,3.8,3.7,4.1
+00AZGJ,E05000442,Lewisham,Downham,30.1,30.1,3.0,3.1,3.2,3.3
+00AZGK,E05000443,Lewisham,Evelyn,22.6,22.6,3.0,3.1,3.1,3.1
+00AZGL,E05000444,Lewisham,Forest Hill,22.2,22.2,3.5,3.6,3.8,4.0
+00AZGM,E05000445,Lewisham,Grove Park,21.6,21.6,3.1,3.1,3.1,3.2
+00AZGN,E05000446,Lewisham,Ladywell,25.6,25.7,4.2,4.2,4.2,4.5
+00AZGP,E05000447,Lewisham,Lee Green,11.9,11.7,3.2,3.3,3.4,3.6
+00AZGQ,E05000448,Lewisham,Lewisham Central,13.6,13.8,4.8,4.9,4.9,5.2
+00AZGR,E05000449,Lewisham,New Cross,16.6,16.5,4.2,4.3,4.4,4.4
+00AZGS,E05000450,Lewisham,Perry Vale,9.7,9.7,3.3,3.3,3.3,3.4
+00AZGT,E05000451,Lewisham,Rushey Green,24.1,24.0,4.9,4.9,5.0,5.2
+00AZGU,E05000452,Lewisham,Sydenham,13.1,13.1,3.9,3.9,4.0,4.1
+00AZGW,E05000453,Lewisham,Telegraph Hill,16.1,16.5,4.4,4.5,4.6,5.2
+00AZGX,E05000454,Lewisham,Whitefoot,27.9,27.9,2.6,2.7,2.7,2.8
+00BAFX,E05000455,Merton,Abbey,12.8,12.8,5.0,5.1,5.2,5.1
+00BAFY,E05000456,Merton,Cannon Hill,42.7,42.7,2.6,2.6,2.6,2.6
+00BAFZ,E05000457,Merton,Colliers Wood,14.5,14.6,4.0,4.1,4.1,3.9
+00BAGA,E05000458,Merton,Cricket Green,50.0,50.0,3.1,3.2,3.3,2.9
+00BAGB,E05000459,Merton,Dundonald,15.2,15.3,4.6,4.5,4.5,4.9
+00BAGC,E05000460,Merton,Figge's Marsh,23.0,23.0,3.7,3.7,3.6,3.6
+00BAGD,E05000461,Merton,Graveney,12.3,12.3,3.4,3.4,3.5,3.4
+00BAGE,E05000462,Merton,Hillside,5.7,5.6,5.0,5.0,5.0,5.4
+00BAGF,E05000463,Merton,Lavender Fields,19.0,18.6,2.6,2.6,2.5,2.7
+00BAGG,E05000464,Merton,Longthornton,36.6,36.6,2.8,2.8,2.9,2.8
+00BAGH,E05000465,Merton,Lower Morden,34.3,34.0,2.2,2.2,2.2,2.2
+00BAGJ,E05000466,Merton,Merton Park,18.9,18.8,3.8,3.9,3.9,3.8
+00BAGK,E05000467,Merton,Pollards Hill,52.8,52.8,2.7,2.7,2.6,2.6
+00BAGL,E05000468,Merton,Ravensbury,37.8,37.8,3.2,3.2,3.2,2.9
+00BAGM,E05000469,Merton,Raynes Park,24.4,24.4,3.4,3.4,3.4,3.8
+00BAGN,E05000470,Merton,St. Helier,41.6,41.6,2.9,3.0,3.0,3.1
+00BAGP,E05000471,Merton,Trinity,15.7,15.7,3.8,3.8,3.8,3.9
+00BAGQ,E05000472,Merton,Village,62.2,62.2,2.3,2.3,2.3,2.4
+00BAGR,E05000473,Merton,West Barnes,32.3,32.4,2.6,2.6,2.7,2.9
+00BAGS,E05000474,Merton,Wimbledon Park,28.5,28.5,3.1,3.2,3.2,3.1
+00BBGB,E05000475,Newham,Beckton,30.9,30.9,2.8,2.8,2.9,2.8
+00BBGC,E05000476,Newham,Boleyn,6.1,6.1,4.2,4.2,4.1,4.0
+00BBGD,E05000477,Newham,Canning Town North,21.7,21.6,4.4,4.4,4.5,4.7
+00BBGE,E05000478,Newham,Canning Town South,26.6,26.6,3.5,3.6,3.7,3.6
+00BBGF,E05000479,Newham,Custom House,30.6,30.6,2.7,2.9,3.1,3.2
+00BBGG,E05000480,Newham,East Ham Central,10.9,10.8,4.8,4.7,4.7,4.7
+00BBGH,E05000481,Newham,East Ham North,12.3,12.4,4.4,4.4,4.4,4.4
+00BBGJ,E05000482,Newham,East Ham South,23.5,23.5,2.6,2.6,2.7,2.6
+00BBGK,E05000483,Newham,Forest Gate North,13.8,13.8,3.1,3.1,3.1,3.2
+00BBGL,E05000484,Newham,Forest Gate South,2.2,2.2,3.8,3.8,3.7,3.9
+00BBGM,E05000485,Newham,Green Street East,2.4,2.4,3.8,3.8,3.8,3.7
+00BBGN,E05000486,Newham,Green Street West,3.2,3.2,4.0,4.0,4.0,4.0
+00BBGP,E05000487,Newham,Little Ilford,48.6,48.6,2.8,2.7,2.6,2.7
+00BBGQ,E05000488,Newham,Manor Park,26.6,26.6,4.0,3.9,3.8,4.0
+00BBGR,E05000489,Newham,Plaistow North,10.3,10.7,4.0,4.2,4.4,4.4
+00BBGS,E05000490,Newham,Plaistow South,14.5,14.6,4.3,4.4,4.5,4.4
+00BBGT,E05000491,Newham,Royal Docks,57.8,56.8,2.5,2.5,2.5,2.8
+00BBGU,E05000492,Newham,Stratford and New Town,11.2,44.7,5.3,5.4,5.6,5.8
+00BBGW,E05000493,Newham,Wall End,33.9,33.9,3.7,3.7,3.8,3.7
+00BBGX,E05000494,Newham,West Ham,27.2,27.2,4.3,4.7,5.1,4.7
+00BCFY,E05000495,Redbridge,Aldborough,76.8,78.2,2.5,2.6,2.7,2.7
+00BCFZ,E05000496,Redbridge,Barkingside,1.3,1.3,3.3,3.3,3.3,3.2
+00BCGA,E05000497,Redbridge,Bridge,36.0,35.8,1.8,2.2,2.5,2.5
+00BCGB,E05000498,Redbridge,Chadwell,4.8,5.0,2.5,2.5,2.4,2.4
+00BCGC,E05000499,Redbridge,Church End,3.3,4.8,2.8,2.8,2.9,2.7
+00BCGD,E05000500,Redbridge,Clayhall,19.9,22.0,2.3,2.3,2.3,2.3
+00BCGE,E05000501,Redbridge,Clementswood,7.7,7.1,3.4,3.4,3.4,3.4
+00BCGF,E05000502,Redbridge,Cranbrook,33.4,39.9,3.7,3.8,3.8,3.8
+00BCGG,E05000503,Redbridge,Fairlop,48.2,48.4,2.8,2.9,3.0,2.8
+00BCGH,E05000504,Redbridge,Fullwell,24.9,23.7,2.3,2.3,2.3,2.4
+00BCGJ,E05000505,Redbridge,Goodmayes,30.6,27.7,3.6,3.6,3.6,3.7
+00BCGK,E05000506,Redbridge,Hainault,59.8,62.6,2.4,2.5,2.5,2.4
+00BCGL,E05000507,Redbridge,Loxford,18.3,16.8,3.5,3.4,3.3,3.4
+00BCGM,E05000508,Redbridge,Mayfield,16.8,14.3,2.7,2.7,2.8,2.7
+00BCGN,E05000509,Redbridge,Monkhams,29.9,31.0,2.6,2.6,2.6,2.6
+00BCGP,E05000510,Redbridge,Newbury,21.4,21.4,3.1,3.2,3.2,3.1
+00BCGQ,E05000511,Redbridge,Roding,35.7,35.7,2.4,2.4,2.4,2.5
+00BCGR,E05000512,Redbridge,Seven Kings,30.0,21.4,3.1,3.1,3.1,3.1
+00BCGS,E05000513,Redbridge,Snaresbrook,10.6,12.6,3.7,3.7,3.7,3.6
+00BCGT,E05000514,Redbridge,Valentines,13.8,13.3,4.5,4.4,4.2,4.5
+00BCGU,E05000515,Redbridge,Wanstead,64.2,66.5,2.4,2.5,2.5,2.5
+00BDFW,E05000516,Richmond upon Thames,Barnes,54.4,54.4,3.2,3.2,3.3,3.4
+00BDFX,E05000517,Richmond upon Thames,East Sheen,76.7,76.6,2.5,2.5,2.6,2.6
+00BDFY,E05000518,Richmond upon Thames,Fulwell and Hampton Hill,32.7,32.7,2.9,3.0,3.0,3.2
+00BDFZ,E05000519,Richmond upon Thames,"Ham, Petersham & Richmond Riverside",81.9,81.9,2.1,2.1,2.1,2.1
+00BDGA,E05000520,Richmond upon Thames,Hampton,74.7,74.7,2.5,2.6,2.6,2.7
+00BDGB,E05000521,Richmond upon Thames,Hampton North,28.2,28.2,2.2,2.2,2.1,2.1
+00BDGC,E05000522,Richmond upon Thames,Hampton Wick,50.0,50.0,2.5,2.5,2.6,2.7
+00BDGD,E05000523,Richmond upon Thames,Heathfield,27.0,27.1,2.0,2.0,2.0,2.0
+00BDGE,E05000524,Richmond upon Thames,Kew,56.6,56.7,3.0,3.1,3.2,2.9
+00BDGF,E05000525,Richmond upon Thames,Mortlake and Barnes Common,41.7,39.1,3.1,3.1,3.2,3.0
+00BDGG,E05000526,Richmond upon Thames,North Richmond,54.1,54.1,4.3,4.4,4.4,4.4
+00BDGH,E05000527,Richmond upon Thames,St. Margarets & North Twickenham,23.5,23.6,3.0,3.0,3.1,3.1
+00BDGJ,E05000528,Richmond upon Thames,South Richmond,47.3,47.4,4.1,4.1,4.1,4.2
+00BDGK,E05000529,Richmond upon Thames,South Twickenham,26.7,26.7,3.4,3.4,3.5,3.5
+00BDGL,E05000530,Richmond upon Thames,Teddington,64.0,64.0,3.0,3.0,3.1,3.2
+00BDGM,E05000531,Richmond upon Thames,Twickenham Riverside,37.8,37.8,4.2,4.2,4.3,4.5
+00BDGN,E05000532,Richmond upon Thames,West Twickenham,45.6,45.6,2.7,2.7,2.7,2.7
+00BDGP,E05000533,Richmond upon Thames,Whitton,21.3,21.2,2.4,2.4,2.3,2.4
+00BEGC,E05000534,Southwark,Brunswick Park,7.0,7.0,3.9,4.0,4.0,4.1
+00BEGD,E05000535,Southwark,Camberwell Green,1.6,1.6,5.6,5.6,5.7,5.6
+00BEGE,E05000536,Southwark,Cathedrals,15.3,15.7,7.7,7.7,7.7,8.0
+00BEGF,E05000537,Southwark,Chaucer,5.6,5.6,6.1,6.5,6.9,7.2
+00BEGG,E05000538,Southwark,College,43.7,43.7,3.2,3.2,3.3,3.4
+00BEGH,E05000539,Southwark,East Dulwich,0.7,0.7,4.1,4.1,4.1,4.1
+00BEGJ,E05000540,Southwark,East Walworth,24.1,24.1,5.8,5.6,5.3,5.8
+00BEGK,E05000541,Southwark,Faraday,30.0,30.0,4.3,4.4,4.5,4.7
+00BEGL,E05000542,Southwark,Grange,4.5,4.5,4.4,4.8,5.1,5.1
+00BEGM,E05000543,Southwark,Livesey,4.5,4.5,4.1,4.2,4.2,4.3
+00BEGN,E05000544,Southwark,Newington,3.8,3.7,5.9,5.9,5.8,5.8
+00BEGP,E05000545,Southwark,Nunhead,20.1,20.1,4.4,4.4,4.5,4.8
+00BEGQ,E05000546,Southwark,Peckham,7.0,7.0,4.1,4.1,4.1,4.1
+00BEGR,E05000547,Southwark,Peckham Rye,45.7,45.7,3.4,3.4,3.4,3.5
+00BEGS,E05000548,Southwark,Riverside,23.2,23.2,4.5,4.6,4.6,4.4
+00BEGT,E05000549,Southwark,Rotherhithe,34.1,34.1,4.7,4.8,4.9,5.3
+00BEGU,E05000550,Southwark,South Bermondsey,3.0,3.0,3.6,3.6,3.7,3.7
+00BEGW,E05000551,Southwark,South Camberwell,20.0,19.9,4.3,4.3,4.3,4.6
+00BEGX,E05000552,Southwark,Surrey Docks,40.3,40.3,2.7,2.7,2.7,2.9
+00BEGY,E05000553,Southwark,The Lane,6.0,6.0,5.6,5.6,5.7,6.0
+00BEGZ,E05000554,Southwark,Village,33.8,33.8,3.7,3.7,3.8,4.1
+00BFGC,E05000555,Sutton,Beddington North,53.0,53.0,2.7,2.6,2.6,2.6
+00BFGD,E05000556,Sutton,Beddington South,39.1,39.0,2.0,2.0,2.0,2.0
+00BFGE,E05000557,Sutton,Belmont,19.0,19.0,2.1,2.1,2.1,2.3
+00BFGF,E05000558,Sutton,Carshalton Central,27.0,26.9,3.1,3.1,3.1,3.3
+00BFGG,E05000559,Sutton,Carshalton South and Clockhouse,68.2,68.2,1.9,2.0,2.0,2.1
+00BFGH,E05000560,Sutton,Cheam,24.7,24.7,2.0,2.0,2.1,2.2
+00BFGJ,E05000561,Sutton,Nonsuch,10.4,10.4,2.2,2.2,2.2,2.3
+00BFGK,E05000562,Sutton,St. Helier,26.0,25.8,2.8,2.9,2.9,2.9
+00BFGL,E05000563,Sutton,Stonecot,21.5,21.5,2.4,2.4,2.5,2.5
+00BFGM,E05000564,Sutton,Sutton Central,12.9,12.9,4.1,4.2,4.3,4.9
+00BFGN,E05000565,Sutton,Sutton North,27.0,28.5,3.0,3.1,3.1,3.3
+00BFGP,E05000566,Sutton,Sutton South,8.1,8.1,3.2,3.3,3.3,3.3
+00BFGQ,E05000567,Sutton,Sutton West,23.1,23.1,3.2,3.4,3.6,3.5
+00BFGR,E05000568,Sutton,The Wrythe,18.0,18.0,2.5,2.5,2.5,2.6
+00BFGS,E05000569,Sutton,Wallington North,19.9,19.2,3.3,3.3,3.4,3.5
+00BFGT,E05000570,Sutton,Wallington South,9.5,9.5,3.2,3.2,3.2,3.4
+00BFGU,E05000571,Sutton,Wandle Valley,40.5,40.5,2.2,2.2,2.3,2.4
+00BFGW,E05000572,Sutton,Worcester Park,22.3,22.3,2.3,2.3,2.3,2.4
+00BGFW,E05000573,Tower Hamlets,Bethnal Green North,6.1,6.3,6.1,6.0,6.0,6.0
+00BGFX,E05000574,Tower Hamlets,Bethnal Green South,16.9,16.9,6.7,6.7,6.7,6.8
+00BGFY,E05000575,Tower Hamlets,Blackwall and Cubitt Town,42.2,42.2,3.6,3.5,3.5,3.8
+00BGFZ,E05000576,Tower Hamlets,Bow East,30.3,39.0,3.6,3.7,3.8,3.6
+00BGGA,E05000577,Tower Hamlets,Bow West,43.0,42.8,5.5,5.4,5.3,5.2
+00BGGB,E05000578,Tower Hamlets,Bromley-by-Bow,11.7,11.6,4.4,4.3,4.2,4.2
+00BGGC,E05000579,Tower Hamlets,East India and Lansbury,12.5,12.4,3.4,3.4,3.4,3.5
+00BGGD,E05000580,Tower Hamlets,Limehouse,23.4,23.3,4.6,4.5,4.4,5.0
+00BGGE,E05000581,Tower Hamlets,Mile End and Globe Town,12.4,12.5,5.6,5.5,5.4,5.4
+00BGGF,E05000582,Tower Hamlets,Mile End East,33.4,33.3,5.3,5.3,5.2,5.3
+00BGGG,E05000583,Tower Hamlets,Millwall,35.0,35.0,3.5,3.4,3.3,3.4
+00BGGH,E05000584,Tower Hamlets,St. Dunstan's and Stepney Green,21.2,21.2,5.1,5.0,4.9,5.4
+00BGGJ,E05000585,Tower Hamlets,St. Katherine's and Wapping,37.0,36.9,3.8,3.8,3.8,4.4
+00BGGK,E05000586,Tower Hamlets,Shadwell,24.2,24.2,5.2,5.1,5.0,6.0
+00BGGL,E05000587,Tower Hamlets,Spitalfields and Banglatown,1.4,1.4,6.2,6.4,6.6,6.9
+00BGGM,E05000588,Tower Hamlets,Weavers,15.0,15.4,5.3,5.1,5.0,5.5
+00BGGN,E05000589,Tower Hamlets,Whitechapel,5.4,5.4,6.3,6.3,6.2,6.8
+00BHFX,E05000590,Waltham Forest,Cann Hall,5.0,5.0,2.9,2.9,2.9,2.9
+00BHFY,E05000591,Waltham Forest,Cathall,22.6,23.5,4.6,4.6,4.6,4.3
+00BHFZ,E05000592,Waltham Forest,Chapel End,31.2,31.2,2.9,2.9,2.9,2.9
+00BHGA,E05000593,Waltham Forest,Chingford Green,54.9,54.9,2.7,2.7,2.8,2.8
+00BHGB,E05000594,Waltham Forest,Endlebury,18.5,18.5,2.2,2.3,2.3,2.4
+00BHGC,E05000595,Waltham Forest,Forest,40.4,40.4,4.0,4.1,4.2,4.3
+00BHGD,E05000596,Waltham Forest,Grove Green,4.3,4.3,4.1,4.2,4.4,4.2
+00BHGE,E05000597,Waltham Forest,Hale End and Highams Park,41.4,41.4,2.4,2.4,2.4,2.5
+00BHGF,E05000598,Waltham Forest,Hatch Lane,37.7,37.7,2.4,2.4,2.4,2.5
+00BHGG,E05000599,Waltham Forest,High Street,56.4,56.6,4.2,4.2,4.2,4.4
+00BHGH,E05000600,Waltham Forest,Higham Hill,56.7,56.7,2.6,2.6,2.6,2.6
+00BHGJ,E05000601,Waltham Forest,Hoe Street,10.6,10.6,5.0,5.1,5.1,5.2
+00BHGK,E05000602,Waltham Forest,Larkswood,31.4,31.4,2.7,2.8,2.8,2.8
+00BHGL,E05000603,Waltham Forest,Lea Bridge,40.1,40.1,3.6,3.6,3.6,3.6
+00BHGM,E05000604,Waltham Forest,Leyton,27.1,27.6,3.8,3.8,3.8,3.8
+00BHGN,E05000605,Waltham Forest,Leytonstone,5.8,5.8,4.3,4.9,5.4,5.5
+00BHGP,E05000606,Waltham Forest,Markhouse,29.0,30.9,4.1,4.0,3.9,4.2
+00BHGQ,E05000607,Waltham Forest,Valley,17.6,17.6,2.4,2.4,2.5,2.4
+00BHGR,E05000608,Waltham Forest,William Morris,5.3,5.3,3.3,3.3,3.4,3.5
+00BHGS,E05000609,Waltham Forest,Wood Street,34.4,34.4,3.5,3.5,3.5,3.7
+00BJFZ,E05000610,Wandsworth,Balham,11.7,11.8,4.6,4.6,4.7,4.7
+00BJGA,E05000611,Wandsworth,Bedford,47.9,44.9,4.1,4.2,4.2,4.1
+00BJGB,E05000612,Wandsworth,Earlsfield,16.7,16.5,3.6,3.6,3.7,3.9
+00BJGC,E05000613,Wandsworth,East Putney,11.0,11.0,4.3,4.3,4.3,4.1
+00BJGD,E05000614,Wandsworth,Fairfield,11.2,11.1,5.2,5.2,5.3,5.5
+00BJGE,E05000615,Wandsworth,Furzedown,18.8,19.3,3.0,3.1,3.1,3.2
+00BJGF,E05000616,Wandsworth,Graveney,2.6,2.6,5.2,5.2,5.3,5.2
+00BJGG,E05000617,Wandsworth,Latchmere,12.5,12.7,5.0,5.3,5.6,5.9
+00BJGH,E05000618,Wandsworth,Nightingale,9.5,9.6,5.3,5.3,5.3,5.4
+00BJGJ,E05000619,Wandsworth,Northcote,34.0,34.5,4.9,4.9,4.9,5.3
+00BJGK,E05000620,Wandsworth,Queenstown,38.5,38.5,4.3,4.3,4.3,4.4
+00BJGL,E05000621,Wandsworth,Roehampton,70.6,70.6,2.9,2.9,3.0,2.8
+00BJGM,E05000622,Wandsworth,St. Mary's Park,26.9,26.9,3.5,3.5,3.5,3.9
+00BJGN,E05000623,Wandsworth,Shaftesbury,2.4,2.1,4.9,5.0,5.0,5.5
+00BJGP,E05000624,Wandsworth,Southfields,17.0,18.1,3.7,3.8,3.8,3.7
+00BJGQ,E05000625,Wandsworth,Thamesfield,34.5,34.5,4.6,4.7,4.7,4.5
+00BJGR,E05000626,Wandsworth,Tooting,33.7,33.7,5.0,5.1,5.3,5.1
+00BJGS,E05000627,Wandsworth,Wandsworth Common,48.2,48.2,2.5,2.6,2.6,2.7
+00BJGT,E05000628,Wandsworth,West Hill,31.9,31.9,2.8,2.9,2.9,2.8
+00BJGU,E05000629,Wandsworth,West Putney,20.5,20.0,2.8,2.8,2.8,2.7
+00BKGA,E05000630,Westminster,Abbey Road,7.2,7.2,5.3,5.4,5.4,5.4
+00BKGB,E05000631,Westminster,Bayswater,3.8,3.8,6.0,6.0,6.0,6.5
+00BKGC,E05000632,Westminster,Bryanston and Dorset Square,2.1,2.1,7.9,8.0,8.0,8.0
+00BKGD,E05000633,Westminster,Churchill,22.2,22.2,4.8,4.8,4.7,4.9
+00BKGE,E05000634,Westminster,Church Street,7.6,7.6,6.3,6.1,6.0,6.7
+00BKGF,E05000635,Westminster,Harrow Road,3.0,3.0,5.5,5.5,5.5,5.7
+00BKGG,E05000636,Westminster,Hyde Park,8.9,8.9,7.7,7.8,7.9,8.0
+00BKGH,E05000637,Westminster,Knightsbridge and Belgravia,69.1,69.1,6.7,6.6,6.6,6.6
+00BKGJ,E05000638,Westminster,Lancaster Gate,8.6,8.6,7.1,7.1,7.1,7.7
+00BKGK,E05000639,Westminster,Little Venice,15.5,15.4,5.6,5.6,5.5,5.6
+00BKGL,E05000640,Westminster,Maida Vale,27.2,27.2,5.4,5.3,5.3,5.2
+00BKGM,E05000641,Westminster,Marylebone High Street,6.1,6.1,7.8,7.8,7.7,7.7
+00BKGN,E05000642,Westminster,Queen's Park,4.4,4.4,5.0,5.0,5.0,5.0
+00BKGP,E05000643,Westminster,Regent's Park,62.2,62.2,5.1,5.1,5.2,5.2
+00BKGQ,E05000644,Westminster,St. James's,30.7,30.7,7.4,7.6,7.7,7.6
+00BKGR,E05000645,Westminster,Tachbrook,32.4,32.4,6.1,6.1,6.1,6.6
+00BKGS,E05000646,Westminster,Vincent Square,30.0,26.4,6.7,6.7,6.8,6.9
+00BKGT,E05000647,Westminster,Warwick,4.0,4.0,6.3,6.3,6.3,7.2
+00BKGU,E05000648,Westminster,Westbourne,19.2,19.2,4.7,4.7,4.8,4.9
+00BKGW,E05000649,Westminster,West End,3.9,3.9,7.9,7.9,8.0,8.0
+#1,E12000007,,London,39.0,39.1,3.6,3.7,3.7,3.8
+#2,E92000001,,England,n/a,n/a,n/a,n/a,n/a,n/a
+#3,K04000001,,England and Wales,n/a,n/a,n/a,n/a,n/a,n/a
+,,,,,,,,,
