@@ -1,0 +1,62 @@
+  
+@page {  
+    size: A4;  
+    margin: 2cm 1cm 2cm 1cm; /* Adjusted left margin */  
+}  
+
+body {  
+    font-family: Arial, sans-serif;  
+    line-height: 1.6;  
+    width: 100%;  
+    max-width: 680px; /* Slightly narrower to prevent text cutoff */  
+    margin: 0 0 0 -80px; /* Fine-tuned left shift */  
+    padding: 20px;  
+}  
+
+.rendered_html {  
+    width: 100%;  
+    margin: 0;  
+    padding: 0;  
+}  
+
+pre {  
+    background-color: #f4f4f4;  
+    padding: 10px;  
+    margin: 10px 0;  
+    overflow-x: auto;  
+}  
+
+table {  
+    width: 100%;  
+    border-collapse: collapse;  
+    margin: 10px 0;  
+}  
+
+code {  
+    background-color: #f1f1f1;  
+    padding: 2px 4px;  
+    border-radius: 3px;
+    display: inline-block; 
+}
+
+/* Hide code block */  
+.hidden-code,  
+.hidden-code pre,  
+.input_area.hidden-code {  
+    display: none !important;  
+    visibility: hidden;  
+    height: 0;  
+    width: 0;  
+    overflow: hidden;  
+}  
+
+/* Hide output block */  
+.hidden-output,  
+.output_area.hidden-output,  
+.output_area .hidden-output {  
+    display: none !important;  
+    visibility: hidden;  
+    height: 0;  
+    width: 0;  
+    overflow: hidden;  
+}  
