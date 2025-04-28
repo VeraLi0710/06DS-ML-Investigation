@@ -7312,7 +7312,6 @@ a.anchor-link {
                     processEnvironments: true
                 },
                 displayAlign: 'center',
-                messageStyle: 'none',
                 CommonHTML: {
                     linebreaks: {
                     automatic: true
@@ -7544,12 +7543,12 @@ a.anchor-link {
 <li><p><strong>watermark</strong>: A Jupyter Notebook extension for printing timestamps, version numbers, and hardware information.</p>
 </li>
 <li><p>To install required package:</p>
-<div class="highlight"><pre><span></span>!pip<span class="w"> </span>install<span class="w"> </span>linearmodels<span class="w">  </span>
-</pre></div>
-<div class="highlight"><pre><span></span>pip<span class="w"> </span>install<span class="w"> </span>nbconvert<span class="w"> </span>weasyprint<span class="w">  </span>
-</pre></div>
 </li>
 </ul>
+<div class="highlight"><pre><span></span>!pip<span class="w"> </span>install<span class="w"> </span>linearmodels
+</pre></div>
+<div class="highlight"><pre><span></span>!pip<span class="w"> </span>install<span class="w"> </span>nbconvert<span class="w"> </span>weasyprint
+</pre></div>
 </li>
 </ul>
 </div>
@@ -7617,12 +7616,27 @@ a.anchor-link {
 </div>
 </div>
 </div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs celltag_hide-output">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In [11]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+<div class="cm-editor cm-s-jupyter">
+<div class="highlight hl-ipython3"><pre><span></span><span class="o">!</span>pip<span class="w"> </span>install<span class="w"> </span>linearmodels<span class="w">  </span>
+<span class="o">!</span>pip<span class="w"> </span>install<span class="w"> </span>nbconvert<span class="w"> </span>weasyprint<span class="w">  </span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [59]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In [8]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
 <div class="cm-editor cm-s-jupyter">
 <div class="highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">os</span>  
@@ -7719,7 +7733,7 @@ a.anchor-link {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<h2 id="Data">Data<a class="anchor-link" href="#Data">¶</a></h2><p><a href="#Table-of-contents">[ go back to the top ]</a></p>
+<h2 id="Data-Collection">Data Collection<a class="anchor-link" href="#Data-Collection">¶</a></h2><p><a href="#Table-of-contents">[ go back to the top ]</a></p>
 </div>
 </div>
 </div>
@@ -7730,7 +7744,7 @@ a.anchor-link {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
-<p><em>[Note: a table that describes the selected variables for analysis and modelling is required - see the example below.]</em></p>
+<p>This study focuses on London wards at the 2011 level (<a href="#lds-boundary">London Data Store, 2011</a>), offering the finest publicly available spatial resolution. The research covers the academic years from 2010/2011 to 2013/2014, spanning four academic years in total.</p>
 </div>
 </div>
 </div>
@@ -7741,42 +7755,129 @@ a.anchor-link {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p><strong>Table 3.1:</strong> Variable Descriptions and Data Sources for Urban Childhood Obesity Analysis</p>
 <table>
 <thead>
 <tr>
-<th>Variable</th>
-<th>Type</th>
-<th>Description</th>
-<th>Notes</th>
+<th style="text-align:left">Variable Category</th>
+<th style="text-align:left">Variable Name</th>
+<th style="text-align:left">Description</th>
+<th style="text-align:left">Time Coverage</th>
+<th style="text-align:left">Data Source</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Burglary crime rate</td>
-<td>Numeric</td>
-<td>The burglary rate of MSOAs. Used as dependent variables in regression.</td>
-<td></td>
+<td style="text-align:left"><strong>Obesity Rates</strong></td>
+<td style="text-align:left"><code>obese_recp</code></td>
+<td style="text-align:left">Reception children obesity (ages 4-5)</td>
+<td style="text-align:left">2010/2011–2013/2014</td>
+<td style="text-align:left"><a href="#ward-profiles-atlas">Ward Atlas-NCMP</a></td>
 </tr>
 <tr>
-<td>Temperature</td>
-<td>Numeric</td>
-<td>The daytime temperature</td>
-<td></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"><code>obese_y6</code></td>
+<td style="text-align:left">Year 6 children obesity (ages 10-11)</td>
+<td style="text-align:left">2010/2011–2013/2014</td>
+<td style="text-align:left"><a href="#ward-profiles-atlas">Ward Atlas-NCMP</a></td>
 </tr>
 <tr>
-<td>Indicator of Inner or Outer London</td>
-<td>Categorical</td>
-<td>Whether the MSOA is in Inner London.</td>
-<td></td>
+<td style="text-align:left"><strong>Facility Types</strong></td>
+<td style="text-align:left"><code>facility_edu</code></td>
+<td style="text-align:left">Education facilities per 10,000 pop</td>
+<td style="text-align:left">2010–2014</td>
+<td style="text-align:left"><a href="#active-places-power">Active Places</a>, <a href="#ons-pop">ONS</a></td>
 </tr>
 <tr>
-<td>......</td>
-<td>......</td>
-<td>......</td>
-<td></td>
+<td style="text-align:left"></td>
+<td style="text-align:left"><code>facility_comm</code></td>
+<td style="text-align:left">Commercial facilities per 10,000 pop</td>
+<td style="text-align:left">2010–2014</td>
+<td style="text-align:left"><a href="#active-places-power">Active Places</a>, <a href="#ons-pop">ONS</a></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"><code>fac_density_local</code></td>
+<td style="text-align:left">Local authority facilities per 10,000 pop</td>
+<td style="text-align:left">2010–2014</td>
+<td style="text-align:left"><a href="#active-places-power">Active Places</a>, <a href="#ons-pop">ONS</a></td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>Socioeconomic</strong></td>
+<td style="text-align:left"><code>unemployment_rate</code></td>
+<td style="text-align:left">Unemployment rate</td>
+<td style="text-align:left">2010–2014</td>
+<td style="text-align:left"><a href="#ward-profiles-atlas">Ward Profiles</a></td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>Environmental</strong></td>
+<td style="text-align:left"><code>greenspace_pct</code></td>
+<td style="text-align:left">Percentage of greenspace</td>
+<td style="text-align:left">2010, 2012*</td>
+<td style="text-align:left"><a href="#ward-profiles-atlas">Ward Profiles</a></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"><code>ptal</code></td>
+<td style="text-align:left">Public Transport Accessibility Level</td>
+<td style="text-align:left">2010, 2011, 2012, 2014*</td>
+<td style="text-align:left"><a href="#ward-profiles-atlas">Ward Profiles</a></td>
 </tr>
 </tbody>
 </table>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p><em>[Note: Missing years for greenspace and PTAL were estimated via interpolation as described below.]</em></p>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<ol>
+<li>Facilities were filtered to include only those operational before 2014 by considering their opening and closing dates. Population estimates for wards each year were taken from the Office for National Statistics (<a href="#ons-pop">ONS, 2023</a>). Facility density per 10,000 population was calculated using the formula:</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p>$$  
+\text{Facility density} = \frac{\text{Number of operational facilities in ward}}{\text{Ward population}} \times 10,000  
+$$</p>
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper" tabindex="0">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
+<p>This calculation standardises facility counts by population size, enabling meaningful comparison across wards with differing population numbers.</p>
+<ol start="2">
+<li>Linear interpolation was applied to address missing years in greenspace and PTAL data. The method assumes that changes between two observed values occur in a steady, linear fashion over time and estimates missing values accordingly by proportionate weighting between neighbouring data points.</li>
+</ol>
+<p>This approach is reliable because environmental variables like greenspace and PTAL typically evolve gradually over short periods, and the brief interpolation spans (one to two years) minimise potential inaccuracies. Linear interpolation is a well-established technique in spatial-temporal data analysis, supported by comprehensive reviews such as <a href="#li-2014">Li et al., 2014</a>.</p>
+<p>After cleaning and interpolation, all datasets were merged on the standard geographic identifier (ward_code) to produce a comprehensive dataset for analysis.</p>
 </div>
 </div>
 </div>
@@ -7887,6 +7988,16 @@ a.anchor-link {
 </li>
 <li><p><a id="yuan-2024"></a>Yuan, Y., 2024. Public health interventions against childhood obesity in China and globally. <em>Preventive Medicine Reports</em>, 29. Available at: <a href="https://www.sciencedirect.com/science/article/pii/S2468266724002457">https://www.sciencedirect.com/science/article/pii/S2468266724002457</a> [Accessed 20 Apr 2025].</p>
 </li>
+<li><p>London Data Store (2011). <em>Statistical GIS Boundary Files for London</em>. Available at: <a href="https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london">https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london</a> (Accessed: 16 April 2025). <a name="lds-boundary"></a></p>
+</li>
+<li><p>London Data Store (2023). <em>Ward Profiles and Atlas</em>. Available at: <a href="https://data.london.gov.uk/dataset/ward-profiles-and-atlas">https://data.london.gov.uk/dataset/ward-profiles-and-atlas</a> (Accessed: 16 April 2025). <a name="ward-profiles-atlas"></a></p>
+</li>
+<li><p>Office for National Statistics (ONS) (2023). <em>Ward Level Mid Year Population Estimates (Experimental)</em>. Available at: <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/wardlevelmidyearpopulationestimatesexperimental">https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/wardlevelmidyearpopulationestimatesexperimental</a> (Accessed: 16 April 2025). <a name="ons-pop"></a></p>
+</li>
+<li><p>Active Places Power (2023). <em>Active Places Dataset</em>. Available at: <a href="https://www.activeplacespower.com/datasets/1e189022e7064e0e9b1bdaadef6d3b78/explore">https://www.activeplacespower.com/datasets/1e189022e7064e0e9b1bdaadef6d3b78/explore</a> (Accessed: 16 April 2025). <a name="active-places-power"></a></p>
+</li>
+<li><p>Li, J., Heap, A. D., Potter, A., &amp; Daniell, J. (2014). Spatial interpolation methods applied in the environmental sciences: A review. <em>Environmental Modelling &amp; Software</em>, 53, pp.182–190. <a href="https://doi.org/10.1016/j.envsoft.2013.12.008">https://doi.org/10.1016/j.envsoft.2013.12.008</a> <a name="li-2014"></a></p>
+</li>
 </ul>
 </div>
 </div>
@@ -7898,20 +8009,6 @@ a.anchor-link {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput celltag_hide-code celltag_hide-output" data-mime-type="text/markdown">
-</div>
-</div>
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs">
-<div class="jp-Cell-inputWrapper" tabindex="0">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In [ ]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-<div class="cm-editor cm-s-jupyter">
-<div class="highlight hl-ipython3"><pre><span></span> 
-</pre></div>
-</div>
 </div>
 </div>
 </div>
