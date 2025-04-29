@@ -1,75 +1,61 @@
   
+ 
     @page {  
         size: A4;  
         margin: 2cm 1cm 2cm 1cm;  
     }  
-
+    
     body {  
         font-family: Arial, sans-serif;  
         line-height: 1.6;  
         width: 100%;  
-        max-width: 680px;  
-        margin: 0 0 0 -80px;  
+        max-width: 660px;  
+        margin: 0 0 0 -60px;  
         padding: 20px;  
     }  
-
+    
     .rendered_html {  
         width: 100%;  
         margin: 0;  
         padding: 0;  
     }  
-
-    /* Style for preformatted code blocks */  
-    pre {  
-        background-color: transparent;  
-        white-space: pre-wrap;  
-        max-width: 100%;  
-        overflow-x: auto;  
-        border: 1px solid #e0e0e0;  
+    
+    pre {   
+        background-color: transparent;
+        white-space: pre-wrap; 
+        max-width: 100%; 
+        overflow-x: auto;   
+        border: 1px solid #e0e0e0; 
     }  
-
-    /* Style for tables */  
+    
     table {  
         width: 100%;  
         border-collapse: collapse;  
         margin: 10px 0;  
     }  
-
-    /* Style for inline code */  
-    code {  
-        background-color: #f1f1f1;  
-        padding: 2px 2px;  
-        border-radius: 1px;  
-        font-size: 0.9em;  
-        display: inline-block;  
+    
+    code {   
+        background-color: #f1f1f1;   
+        padding: 2px 2px;   
+        border-radius: 1px;   
+        font-size: 0.9em; 
+        display: inline-block;   
     }  
-
-    /* Input and output areas have horizontal scroll if needed */  
+    
     .input_area, .output_area {  
         width: 100%;  
         overflow-x: auto;  
     }  
 
-    /* Ensure images in output area scale nicely */  
     .output_area img {  
-        display: block !important;  
-        max-width: 100% !important;  
-        height: auto !important;  
-        visibility: visible !important;  
-        opacity: 1 !important;  
-    }  
-
-    /* Hide the code input area completely for cells with hidden-code class */  
-    .cell.hidden-code .input_area {  
-        display: none !important;  
-        height: 0 !important;  
-        margin: 0 !important;  
-        padding: 0 !important;  
-        border: none !important;  
-        overflow: hidden !important;  
-    }  
-
-    /* Additional rules to hide code blocks when the class is applied */  
+    display: block !important;  
+    max-width: 100% !important;  
+    height: auto !important;  
+    visibility: visible !important;  
+    opacity: 1 !important;  
+} 
+    
+    /* Hide code block */  
     .hidden-code,  
     .hidden-code pre,  
     .input_area.hidden-code {  
@@ -79,8 +65,8 @@
         width: 0;  
         overflow: hidden;  
     }  
-
-    /* Rules to hide output blocks when the hidden-output class is applied */  
+    
+    /* Hide output block */  
     .hidden-output,  
     .output_area.hidden-output,  
     .output_area .hidden-output {  
@@ -90,14 +76,5 @@
         width: 0;  
         overflow: hidden;  
     }  
-
-    /* Additional hiding for input area with hidden-code class */  
-    .input_area.hidden-code {  
-        display: none !important;  
-        visibility: hidden !important;  
-        height: 0 !important;  
-        margin: 0 !important;  
-        padding: 0 !important;  
-        border: none !important;  
-    }  
+      
     
